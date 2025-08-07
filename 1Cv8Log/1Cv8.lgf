@@ -1,0 +1,17 @@
+﻿1CV8LOG(ver 2.0)
+6013278c-4b2a-4383-96a9-9301fc296d11
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"Windows",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{3,"1CV8C",2},
+{4,"_$InfoBase$_.ConfigUpdate",5},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{4,"_$Access$_.Access",8},
+{4,"_$InfoBase$_.ExclusiveModeChange",9}
